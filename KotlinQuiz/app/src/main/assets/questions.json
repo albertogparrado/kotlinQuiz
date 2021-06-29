@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "title": "¿Cuál es una variable en kotlin?",
+      "answers": [
+        {
+          "title": "val",
+          "isCorrect": true
+        },
+        {
+          "title": "lat",
+          "isCorrect": false
+        },
+        {
+          "title": "Cola-lat",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿Cuál es una función en kotlin?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": true
+        },
+        {
+          "title": "Cola-lat",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿De qué me hablas?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": true
+        },
+        {
+          "title": "Cola-lat",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "¿Cosas?",
+      "answers": [
+        {
+          "title": "function",
+          "isCorrect": false
+        },
+        {
+          "title": "fun",
+          "isCorrect": true
+        },
+        {
+          "title": "Cola-lat",
+          "isCorrect": false
+        },
+        {
+          "title": "class",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
